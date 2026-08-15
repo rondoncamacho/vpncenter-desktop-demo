@@ -2,6 +2,10 @@
 
 **Prototipo funcional** de una aplicación de escritorio para centralizar la gestión de múltiples clientes VPN en entornos corporativos.
 
+---
+
+![Vista del Panel](https://github.com/rondoncamacho/vpncenter-desktop-demo/blob/335c83bbb4721b71ff347ac26db90fa617a52c79/screenshots/vpn-center.png)
+
 ## 🚀 El Problema
 En entornos de soporte N2, los usuarios suelen tener que abrir 4 o 5 aplicaciones distintas (FortiClient, OpenVPN, Cisco AnyConnect, etc.) para acceder a diferentes clientes. Esto ralentiza los tiempos de respuesta.
 
